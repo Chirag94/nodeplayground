@@ -1,0 +1,20 @@
+{
+  "name": "vidlypackage",
+  "version": "1.0.0",
+  "description": "vidly starter project for mosh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mosh",
+    "vidly",
+    "starter"
+  ],
+  "author": "Chirag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.1.2"
+  }
+}
